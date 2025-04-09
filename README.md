@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arvind761.
-- 👀 I’m interested in Mern Stack Developer.
-- 🌱 I’m currently learning Mern Stack development and DSA.
-- 💞️ I’m looking to collaborate on React.js development.
+- 👀 I’m interested in .net Full Stack Developer.
+- 🌱 I’m currently learning .net Full Stack development and DSA.
+- 💞️ I’m looking to collaborate on .net Development.
 - 📫 How to reach me  https://www.linkedin.com/in/arvind-kumar-yadav-445385207/ 
 
 <!---
